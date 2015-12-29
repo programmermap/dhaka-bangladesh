@@ -1,10 +1,10 @@
-Dhaka, Bangladesh
+Awesome Dhaka, Bangladesh [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Dhaka, Bangladesh. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Dhaka, Bangladesh. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Dhaka, Bangladesh
+Top 15 programmers in Dhaka, Bangladesh
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Dhaka, Bangladesh.
+These are the 15 most influential programmers in Dhaka, Bangladesh. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Hasin Hayder [@hasinhayder](https://github.com/hasinhayder) (28)
 2. Tareq Hasan [@tareq1988](https://github.com/tareq1988) (22)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. M N Islam Shihan [@mnishihan](https://github.com/mnishihan) (12)
 15. Mashpy Says [@Mashpy](https://github.com/Mashpy) (12)
 
-You can find the comprehensive statistics at the page for [Dhaka, Bangladesh](http://programmermap.com/area/dhaka-bangladesh) at programmermap.com.
+You can find comprehensive statistics at the page for [Dhaka, Bangladesh](http://programmermap.com/area/dhaka-bangladesh) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [Android-Week-View](https://github.com/alamkanak/Android-Week-View) (1090)
+2. [android-empty-layout](https://github.com/alamkanak/android-empty-layout) (457)
+3. [banner-designer](http://bannerdesigner.leevio.com/) (203)
+4. [android-libraries-and-resources](http://alamkanak.github.io/android-libraries-and-resources) (199)
+5. [wordpress-settings-api-class](http://tareq.wedevs.com) (189)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
